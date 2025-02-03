@@ -31,7 +31,7 @@ import _collections_abc as container_abcs
 即可正常運作
 
 ### 2. 資料集結構
-
+*2025/2/3 新增cropping tool，crop_tool.py應與tag_locCoor.csv置於相同資料夾內。資料與excel檔可至 https://www.aicup.tw/%E5%89%AF%E6%9C%AC-%E8%B3%87%E6%96%99%E9%9B%86%E4%B8%8B%E8%BC%89 下載。
 ```
 /path/to/ai_cup_dataset/
   train/
